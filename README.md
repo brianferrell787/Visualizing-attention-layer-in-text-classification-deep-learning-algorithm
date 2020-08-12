@@ -21,7 +21,7 @@ Code for attention layer was used from:
 # **Attention Layer Viz Example**:
 ![Alt text](attentionnotsorted.JPG?raw=true "Title")
 
-#**Attention Layer**:
+# **Attention Layer**:
 ```python
 from keras.engine.topology import Layer
 from keras.layers import Layer
