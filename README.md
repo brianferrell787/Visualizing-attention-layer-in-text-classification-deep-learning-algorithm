@@ -14,5 +14,5 @@ Code for attention layer was used from:
 https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/
 
 
-#**Attention Layer Viz Example**
+# **Attention Layer Viz Example**:
 ![Alt text](examplesattentions.JPG?raw=true "Title")
