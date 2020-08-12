@@ -1,0 +1,2 @@
+# Visualizing-attention-layer-in-text-classification-deep-learning-algorithim
+So recently I have finished creating a prototype algorithm on a really small dataset that can detect the gradients of a newly created 5-level community engaged research heuristic. This model has a custom attention layer added in and I have found that visualizing this layer can actually help see what words are important and what words are not. 
