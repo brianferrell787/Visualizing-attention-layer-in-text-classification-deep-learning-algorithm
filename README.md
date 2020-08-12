@@ -8,14 +8,14 @@ So I understand it is hard to explain how a model predicts but I do not believe 
 
 # Acknowledgements:
 Attention Viz was inspired by this StackOverflow post: 
-https://stackoverflow.com/questions/53867351/how-to-visualize-attention-weights
+- https://stackoverflow.com/questions/53867351/how-to-visualize-attention-weights
 
 As well as these research papers: 
 - https://arxiv.org/abs/1902.02181
 - https://arxiv.org/abs/1805.12307
 
 Code for attention layer was used from:
-https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/
+- https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/
 
 
 # **Attention Layer Viz Example**:
