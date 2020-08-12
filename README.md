@@ -15,4 +15,4 @@ https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mecha
 
 
 # **Attention Layer Viz Example**:
-![Alt text](examplesattentions.JPG?raw=true "Title")
+![Alt text](attentionnotsorted.JPG?raw=true "Title")
