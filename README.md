@@ -48,3 +48,4 @@ class attention(Layer):
     def get_config(self):
         return super(attention,self).get_config()
 ```
+<meta name="google-site-verification" content="GcDEY32OdmYJf0j3z4AqPxq6MAz56o6Jy6or1RMNo9M" />
